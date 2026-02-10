@@ -1,6 +1,6 @@
 <h1 align="center"><b>Hi , I'm Martina Sansone </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<img align="right" width=300px alt="Unicorn" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGZjZmkzdDFzcHljb2pwYXQ4amVvbmNxdGpqdG5kbjI2amEybjdyeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/pCxK8loDjJKm2ElmSA/giphy.gif" />
+<img align="right" width=300px alt="Unicorn" src="https://media.tenor.com/tLQNV1ygf6gAAAAj/mimibubu.gif" />
 
 <img src="https://media.tenor.com/drlZ92prkqgAAAAi/coffee-drink.gif" width="30px">&nbsp;***About me***
 
